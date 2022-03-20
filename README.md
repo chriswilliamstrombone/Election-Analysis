@@ -3,7 +3,7 @@
 ## Overview of the Election Audit
 
 - Output of .txt file:
-![Resources/Example_3_1.png](Resources/Example_3_1.png)
+- ![Resources/Example_3_1.png](Resources/Example_3_1.png)
 
 
 
@@ -50,16 +50,19 @@
  - The python script included in this repository could be modified to process other .csv election result datasets by adjusting the script to inspect the correct column in the desired file.
 
  - For example, our script currently looks like this:
- ![Resources/Example_1_1.png](Resources/Example_1_1.png)
+ 
+ - ![Resources/Example_1_1.png](Resources/Example_1_1.png)
 
  - We can adjust the index number to reflect the needs of a different .csv file in the Resources folder like so:
- ![Resources/Example_1_2.png](Resources/Example_1_2.png)
+ 
+ - ![Resources/Example_1_2.png](Resources/Example_1_2.png)
 
  - The script could also be altered to track a national election by adding a states set of variables that is similar to our county variable set like so:
 
- ![Resources/Example_2_1.png](Resources/Example_2_1.png)
+ - ![Resources/Example_2_1.png](Resources/Example_2_1.png)
 
  - And we would just need to adjust our for loop and if statements to account for states now.
 
- ![Resources/Example_2_2.png](Resources/Example_2_2.png)
- ![Resources/Example_2_3.png](Resources/Example_2_3.png)
+ - ![Resources/Example_2_2.png](Resources/Example_2_2.png)
+ 
+ - ![Resources/Example_2_3.png](Resources/Example_2_3.png)
