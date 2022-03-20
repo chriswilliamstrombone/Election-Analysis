@@ -18,7 +18,7 @@
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Pyton 3.6.1, Visual Studio Code, 1.38.1
+- Software: Pyton 3.10.1, Visual Studio Code, 1.65.2
 
 ### Election-Audit Results
 
