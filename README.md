@@ -2,11 +2,6 @@
 
 ## Overview of the Election Audit
 
-- Output of .txt file:
-- ![Resources/Example_3_1.png](Resources/Example_3_1.png)
-
-
-
 ### Purpose
 
 - A Colorado Board of Elections employee requested my help to conduct an election audit of a recent local congressional election. The tasks to be completed for this election audit were:
@@ -17,6 +12,9 @@
     5. Determin the winner of the election based on popular vote.
 
 - The board additionally requested an overview and analysis of voter turnout by county, listed both as a percentage and total votes per county, as well as what county had the highest voter turn out.
+
+- Output of .txt file:
+- ![Resources/Example_3_1.png](Resources/Example_3_1.png)
 
 ## Resources
 - Data Source: election_results.csv
