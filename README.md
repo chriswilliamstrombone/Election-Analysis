@@ -14,6 +14,7 @@
 - The board additionally requested an overview and analysis of voter turnout by county, listed both as a percentage and total votes per county, as well as what county had the highest voter turn out.
 
 - Output of .txt file:
+
 ![Resources/Example_3_1.png](Resources/Example_3_1.png)
 
 ## Resources
