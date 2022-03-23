@@ -21,7 +21,7 @@
 - Data Source: election_results.csv
 - Software: Pyton 3.10.1, Visual Studio Code, 1.65.2
 
-### Election-Audit Results
+## Election-Audit Results
 
 - Summary of the election:
 
@@ -44,7 +44,7 @@
     - Winning Vote Count: 272,892
     - Winning Percentage: 73.8%
     
-### Election-Audit Summary
+## Election-Audit Summary
 
  - The python script included in this repository could be modified to process other .csv election result datasets by adjusting the script to inspect the correct column in the desired file.
 
